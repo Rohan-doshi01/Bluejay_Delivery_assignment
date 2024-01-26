@@ -1,0 +1,21 @@
++---------------------------------+-------------+-----------------------------------------------------------+
+|          Employee Name          | Position ID |                          Message                          |
++---------------------------------+-------------+-----------------------------------------------------------+
+|         CaMaXaWE, CeghaW        |  WFS000153  | Less than 10 hours but greater than 1 hour between shifts |
+|         CaMaXaWE, CeghaW        |  WFS000153  | Less than 10 hours but greater than 1 hour between shifts |
+|            Xee, XaCar           |  WFS000200  | Less than 10 hours but greater than 1 hour between shifts |
+|            Xee, XaCar           |  WFS000200  | Less than 10 hours but greater than 1 hour between shifts |
+|            Xee, XaCar           |  WFS000200  | Less than 10 hours but greater than 1 hour between shifts |
+|       De Xa Cerda, IgWaciE      |  WFS000318  | Less than 10 hours but greater than 1 hour between shifts |
+|         MraW, WiXXiaC Ha        |  WFS000345  | Less than 10 hours but greater than 1 hour between shifts |
+|         CEreira Jr, JEse        |  WFS000456  | Less than 10 hours but greater than 1 hour between shifts |
+|          CEMMa, Jessica         |  WFS000503  | Less than 10 hours but greater than 1 hour between shifts |
+|          CEMMa, Jessica         |  WFS000503  | Less than 10 hours but greater than 1 hour between shifts |
+|          CEMMa, Jessica         |  WFS000503  | Less than 10 hours but greater than 1 hour between shifts |
+|          CEMMa, Jessica         |  WFS000503  | Less than 10 hours but greater than 1 hour between shifts |
+| DeXgadiXXE REdarMe, ChrisMiaW S |  WFS000523  | Less than 10 hours but greater than 1 hour between shifts |
+| DeXgadiXXE REdarMe, ChrisMiaW S |  WFS000523  |      Worked for more than 14 hours in a single shift      |
+|      HaCiXMEW, DeaWMe DevEW     |  WFS000536  | Less than 10 hours but greater than 1 hour between shifts |
+|     HAWMer, ViWceWM De PaAX     |  WFS000538  | Less than 10 hours but greater than 1 hour between shifts |
+|     REdrigAez, GraWdEW AWgeX    |  WFS000550  | Less than 10 hours but greater than 1 hour between shifts |
++---------------------------------+-------------+-----------------------------------------------------------+
